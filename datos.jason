@@ -1,6 +1,6 @@
 [
     {
-        "name": "La primera cuestión",
+        "name": "Harry Potter y la piedra filosofal",
         "year": 2001,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
@@ -9,65 +9,65 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     },
     {
-        "name": "La segunda cuestión",
+        "name": "Harry Potter y la camara secreta",
         "year": 2002,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
-        "pic_sm": "foto-1-chica.jpg",
-        "pic_lg": "foto-1-grande.jpg",
+        "pic_sm": "foto-2-chica.jpg",
+        "pic_lg": "foto-2-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     },
     {
-        "name": "La tercera cuestión",
+        "name": "Harry Potter y el prisionero de azkaban",
         "year": 2004,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
-        "pic_sm": "foto-1-chica.jpg",
-        "pic_lg": "foto-1-grande.jpg",
+        "pic_sm": "foto-3-chica.jpg",
+        "pic_lg": "foto-3-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     },
     {
-        "name": "La cuarta cuestión",
+        "name": "Harry Potter y el cáliz de fuego",
         "year": 2005,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
-        "pic_sm": "foto-1-chica.jpg",
-        "pic_lg": "foto-1-grande.jpg",
+        "pic_sm": "foto-4-chica.jpg",
+        "pic_lg": "foto-4-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     },
     {
-        "name": "La quinta cuestión",
+        "name": "Harry Potter y la orden del fénix",
         "year": 2007,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
-        "pic_sm": "foto-1-chica.jpg",
-        "pic_lg": "foto-1-grande.jpg",
+        "pic_sm": "foto-5-chica.jpg",
+        "pic_lg": "foto-5-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     },
     {
-        "name": "La sexta cuestión",
+        "name": "Harry Potter y el príncipe mestizo",
         "year": 2009,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
-        "pic_sm": "foto-1-chica.jpg",
-        "pic_lg": "foto-1-grande.jpg",
+        "pic_sm": "foto-6-chica.jpg",
+        "pic_lg": "foto-6-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     },
     {
-        "name": "La séptima cuestión",
+        "name": "Harry Potter y las reliquias de la muerte Parte I",
         "year": 2010,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
-        "pic_sm": "foto-1-chica.jpg",
-        "pic_lg": "foto-1-grande.jpg",
+        "pic_sm": "foto-7-chica.jpg",
+        "pic_lg": "foto-7-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     },
     {
-        "name": "La octava cuestión",
+        "name": "Harry Potter y las reliquias de la muerte Parte II",
         "year": 2011,
         "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
-        "pic_sm": "foto-1-chica.jpg",
-        "pic_lg": "foto-1-grande.jpg",
+        "pic_sm": "foto-8-chica.jpg",
+        "pic_lg": "foto-8-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
     }
