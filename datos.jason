@@ -1,8 +1,8 @@
 [
     {
         "name": "La primera cuestión",
-        "year": 2000,
-        "director": "J.K. Rowling",
+        "year": 2001,
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
@@ -11,7 +11,7 @@
     {
         "name": "La segunda cuestión",
         "year": 2002,
-        "director": "Nombre Apellido",
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
@@ -20,7 +20,7 @@
     {
         "name": "La tercera cuestión",
         "year": 2004,
-        "director": "Nombre Apellido",
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
@@ -28,8 +28,8 @@
     },
     {
         "name": "La cuarta cuestión",
-        "year": 2008,
-        "director": "Nombre Apellido",
+        "year": 2005,
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
@@ -37,8 +37,8 @@
     },
     {
         "name": "La quinta cuestión",
-        "year": 2010,
-        "director": "Nombre Apellido",
+        "year": 2007,
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
@@ -46,8 +46,8 @@
     },
     {
         "name": "La sexta cuestión",
-        "year": 2012,
-        "director": "Nombre Apellido",
+        "year": 2009,
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
@@ -55,8 +55,8 @@
     },
     {
         "name": "La séptima cuestión",
-        "year": 2014,
-        "director": "Nombre Apellido",
+        "year": 2010,
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
@@ -64,8 +64,8 @@
     },
     {
         "name": "La octava cuestión",
-        "year": 2016,
-        "director": "Nombre Apellido",
+        "year": 2011,
+        "director": "David Yates, Alfonso Cuarón, Mike Newell y Chris Columbus",
         "pic_sm": "foto-1-chica.jpg",
         "pic_lg": "foto-1-grande.jpg",
         "trailer": "https://youtu.be/BApEMYvtiDc",
